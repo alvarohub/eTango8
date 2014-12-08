@@ -1,0 +1,14 @@
+<VIEW_SETTINGS>
+	<No_Video>1</No_Video>
+	<Normal_Video>0</Normal_Video>
+	<Black_&_White>0</Black_&_White>
+	<Sepia>0</Sepia>
+	<Shadows>0</Shadows>
+    <Shader>0</Shader>
+	<Contours>0</Contours>
+	<Threshold_Contours>140</Threshold_Contours>
+	<Invert>1</Invert>
+	<Windowed_Screen>0</Windowed_Screen>
+	<Show_messages>1</Show_messages>
+	<Show_song_playing>1</Show_song_playing>
+</VIEW_SETTINGS>

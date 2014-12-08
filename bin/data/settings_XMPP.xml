@@ -1,0 +1,22 @@
+<MENU_RTP>
+
+<server>talk.google.com</server>
+<user>alvaroxmpp1@gmail.com</user>
+<pwd>xmpp1delfin1</pwd>
+
+<camwidth>640</camwidth>
+<camheight>480</camheight>
+<fps>25</fps>
+
+		<group>
+			<gst_rtp_client>
+				<latency>200</latency>
+				<drop>0</drop>
+			</gst_rtp_client>
+			<gst_rtp_server>
+				<video_bitrate__kbps_>1970</video_bitrate__kbps_>
+			</gst_rtp_server>
+		</group>
+<MENU_RTP/>
+	<FPS>25</FPS>
+</MENU_RTP>
